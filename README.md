@@ -4,6 +4,7 @@
 
 - [HAProxy](http://www.haproxy.org/)
 - [Nginx](http://www.nginx.com/)
+- [Envoy](https://www.envoyproxy.io)
 - [Katran (FB)](https://github.com/facebookincubator/katran)
 - [GLB (Github)](https://github.com/github/glb-director)
 - [Traefik](https://github.com/containous/traefik/)
