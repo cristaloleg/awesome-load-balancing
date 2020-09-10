@@ -6,6 +6,7 @@
 - [Nginx](http://www.nginx.com/)
 - [Katran (FB)](https://github.com/facebookincubator/katran)
 - [GLB (Github)](https://github.com/github/glb-director)
+- [Traefik](https://github.com/containous/traefik/)
 
 ## Collections
 
