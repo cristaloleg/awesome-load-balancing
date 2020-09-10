@@ -1,11 +1,17 @@
-# awesome-load-balancing
+# Awesome Load Balancing
 
 ## Projects
 
 - [HAProxy](http://www.haproxy.org/)
+- [Nginx](http://www.nginx.com/)
 - [Katran (FB)](https://github.com/facebookincubator/katran)
 - [GLB (Github)](https://github.com/github/glb-director)
 
+## Collections
+
+- [Nginx resources](https://github.com/fcambus/nginx-resources)
+- [Awesome Nginx](https://github.com/agile6v/awesome-nginx)
+- [Awesome Nginx Security](https://github.com/wallarm/awesome-nginx-security)
 
 ## Posts
 
