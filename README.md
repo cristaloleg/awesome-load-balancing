@@ -18,6 +18,7 @@
 - [Unimog - Cloudflare’s edge load balancer](https://blog.cloudflare.com/unimog-cloudflares-edge-load-balancer/)
 - [GLB: GitHub’s open source load balancer](https://github.blog/2018-08-08-glb-director-open-source-load-balancer/)
 - [Maglev: A Fast and Reliable Software Network Load Balancer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf)
+- [Deterministic Aperture: A distributed, load balancing algorithm (Twitter)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
 
 ## Talks
 
