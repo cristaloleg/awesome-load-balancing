@@ -9,6 +9,18 @@
 - [GLB (Github)](https://github.com/github/glb-director)
 - [Traefik](https://github.com/containous/traefik/)
 
+## Cloud
+
+- [Amazon Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - Achieve fault tolerance for any application by ensuring scalability, performance, and security.
+
+- [Azure Load Balancing](https://azure.microsoft.com/en-us/services/load-balancer/) - Deliver high availability and network performance to your applications.
+
+- [Cloudflare Load Balancing](https://www.cloudflare.com/load-balancing/) - you can improve application performance and availability by steering traffic away from unhealthy origin servers and dynamically distributing it to the most available and responsive server pools.
+
+- [DigitalOcean Load Balancing](https://www.digitalocean.com/products/load-balancer/) - Scale your applications and improve availability, security, and performance across your infrastructure in a few clicks.
+
+- [Google Load Balancing](https://cloud.google.com/load-balancing) - High performance, scalable load balancing on Google Cloud Platform.
+
 ## Collections
 
 - [Nginx resources](https://github.com/fcambus/nginx-resources)
