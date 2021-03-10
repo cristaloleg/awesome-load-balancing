@@ -6,6 +6,7 @@
 - [Nginx](http://www.nginx.com/)
 - [Envoy](https://www.envoyproxy.io)
 - [Katran (FB)](https://github.com/facebookincubator/katran)
+- [KgLb (Digitalocean)](https://github.com/dropbox/kglb)
 - [GLB (Github)](https://github.com/github/glb-director)
 - [Traefik](https://github.com/containous/traefik/)
 
