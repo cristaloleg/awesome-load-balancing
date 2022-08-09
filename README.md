@@ -35,6 +35,8 @@
 - [Maglev: A Fast and Reliable Software Network Load Balancer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf)
 - [Deterministic Aperture: A distributed, load balancing algorithm (Twitter)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
 - [Examining Load Balancing Algorithms with Envoy](https://blog.envoyproxy.io/examining-load-balancing-algorithms-with-envoy-1be643ea121c)
+- [gRPC Load Balancing](https://grpc.io/blog/grpc-load-balancing/#proxy-or-client-side)
+
 ## Talks
 
 - [Networking @Scale 2018 - Layer 4 Load Balancing at Facebook](https://www.facebook.com/watch/?v=2090080137931746)
