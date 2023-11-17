@@ -9,6 +9,7 @@
 - [KgLb (Dropbox)](https://github.com/dropbox/kglb)
 - [GLB (Github)](https://github.com/github/glb-director)
 - [Traefik](https://github.com/containous/traefik/)
+- [Cilium](https://cilium.io/) Kubernetes CNI with load-balancing features
 
 ## Cloud
 
@@ -36,6 +37,8 @@
 - [Deterministic Aperture: A distributed, load balancing algorithm (Twitter)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
 - [Examining Load Balancing Algorithms with Envoy](https://blog.envoyproxy.io/examining-load-balancing-algorithms-with-envoy-1be643ea121c)
 - [gRPC Load Balancing](https://grpc.io/blog/grpc-load-balancing/#proxy-or-client-side)
+- [Cilium Standalone Layer 4 Load Balancer XDP](https://cilium.io/blog/2022/04/12/cilium-standalone-L4LB-XDP/)
+- [Cilium](https://docs.cilium.io/en/stable/network/kubernetes/kubeproxy-free/#maglev-consistent-hashing) - `maglev` support in Kubernetes CNI
 
 ## Talks
 
