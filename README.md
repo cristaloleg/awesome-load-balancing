@@ -39,6 +39,7 @@
 - [gRPC Load Balancing](https://grpc.io/blog/grpc-load-balancing/#proxy-or-client-side)
 - [Cilium Standalone Layer 4 Load Balancer XDP](https://cilium.io/blog/2022/04/12/cilium-standalone-L4LB-XDP/)
 - [Cilium](https://docs.cilium.io/en/stable/network/kubernetes/kubeproxy-free/#maglev-consistent-hashing) - `maglev` support in Kubernetes CNI
+- [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer)
 
 ## Talks
 
